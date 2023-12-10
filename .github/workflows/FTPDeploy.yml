@@ -15,3 +15,5 @@ jobs:
         username: mwffyvvwy
         password: ${{ secrets.ftp_password }}
         dry-run: true
+        protocol: ftp
+        port: 21
