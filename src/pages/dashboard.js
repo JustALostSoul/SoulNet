@@ -1,5 +1,9 @@
 const messages = [
     {
+        name: "Website Update 0.1.3 - 10.12.2023 14:45 Uhr",
+        content: "Automated Github Action eingerichtet, für schnellen und automatisches Deploying auf den Webspace"
+    },
+    {
         name: "Website Update 0.1.2 - 10.12.2023 13 Uhr",
         content: "Routing fixed mittels searchParametern und meta-Refresh-Weiterleitung von /de/hoga"
     },
