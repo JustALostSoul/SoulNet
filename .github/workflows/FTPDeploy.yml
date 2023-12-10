@@ -31,7 +31,6 @@ jobs:
         server: host284.checkdomain.de
         username: wffyvvwy
         password: ${{ secrets.ftp_password }}
-        dry-run: true
         protocol: ftp
         port: 21
         local-dir: ./build/
