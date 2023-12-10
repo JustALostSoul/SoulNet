@@ -12,7 +12,7 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
         server: host284.checkdomain.de
-        username: mwffyvvwy
+        username: wffyvvwy
         password: ${{ secrets.ftp_password }}
         dry-run: true
         protocol: ftp
