@@ -34,3 +34,5 @@ jobs:
         dry-run: true
         protocol: ftp
         port: 21
+        local-dir: ./build/
+        server-dir: soulback.net
