@@ -35,4 +35,4 @@ jobs:
         protocol: ftp
         port: 21
         local-dir: ./build/
-        server-dir: soulback.net
+        server-dir: soulback.net/
