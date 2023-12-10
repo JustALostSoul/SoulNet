@@ -17,6 +17,9 @@ jobs:
       with:
         node-version: 18.x
 
+    - name: Set Env.CI to false
+      run: echo "CI=false" >> $GITHUB_ENV
+
     - name: Build
       run: |
         npm install
