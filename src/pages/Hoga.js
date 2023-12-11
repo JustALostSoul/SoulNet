@@ -3,6 +3,10 @@ const documents = [
         name: "WI Unterlagen",
         link: "https://soulback.net/de/hogaDocs/WI_081223_comp.pdf"
     },
+    {
+        name: "LFK9 Unterlagen",
+        link: "https://soulback.net/de/hogaDocs/LFK9_111223.pdf"
+    },
 ];
 
 export default function Hoga() {
